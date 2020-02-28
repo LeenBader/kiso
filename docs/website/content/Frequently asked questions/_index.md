@@ -4,9 +4,6 @@ weight: 50
 chapter: true
 ---
 
-### Chapter 5
-
-
 ## Frequently Asked Questions
 
 **Who is Kiso for?**

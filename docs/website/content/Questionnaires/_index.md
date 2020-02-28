@@ -4,8 +4,6 @@ weight: 60
 chapter: true
 ---
 
-### Chapter 6
-
 # Questionnaires
 
 # These anonymous questionnaires give us the chance collect informations helping the contributors community to improve the user experience ..
