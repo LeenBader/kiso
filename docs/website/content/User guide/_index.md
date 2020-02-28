@@ -1,7 +1,6 @@
 ---
 title: User guide
-weight: 3
-pre: "<b>3. </b>"
+weight: 30
 chapter: true
 ---
 

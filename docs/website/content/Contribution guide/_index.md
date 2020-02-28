@@ -1,7 +1,6 @@
 ---
 title: Contribution guide
-weight: 4
-pre: "<b>4. </b>"
+weight: 40
 chapter: true
 ---
 
